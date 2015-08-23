@@ -1,0 +1,7 @@
+# partition table of /dev/sdf
+unit: sectors
+
+/dev/sdf1 : start=        1, size=   149419, Id= c, bootable
+/dev/sdf2 : start=   149420, size= 15106362, Id=83
+/dev/sdf3 : start= 15255782, size=    14942, Id=83
+/dev/sdf4 : start=        0, size=        0, Id= 0

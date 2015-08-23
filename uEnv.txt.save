@@ -1,0 +1,4 @@
+bootargs=console=ttyO0,115200 root=/dev/mmcblk0p2 ip=dhcp
+#bootcmd=mmc rescan; fatload mmc 0 0x82000000 uImage; bootm 0x82000000
+#uenvcmd=boot
+
